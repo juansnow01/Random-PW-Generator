@@ -1,6 +1,6 @@
 # Random-PW-Generator
 
-##Overview
+## Overview
 
 A random password generator based on users specifications which include a combination of either:
 - uppercase letters
